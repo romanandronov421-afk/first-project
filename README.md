@@ -1,2 +1,2 @@
-# first-project
-yandex practicum
+Тестовый репозиторий для работы с GitHub
+
